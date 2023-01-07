@@ -1,5 +1,5 @@
 ---
-title: "Spring"
+title: "Spring 공부"
 layout: archive
 permalink: categories/spring
 author_profile: true

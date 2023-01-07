@@ -17,11 +17,11 @@
                 {% endfor %}
             </ul>
         
-        <!-- <span class="nav__sub-title">CS</span>
+        <span class="nav__sub-title">CS</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "DataStructure" %}
-                        <li><a href="/categories/data-structure" class="">자료구조 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/datastructure" class="">자료구조 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -54,7 +54,7 @@
                         <li><a href="/categories/blog" class="">Blog Dev ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
-            </ul> -->
+            </ul>
       </li>
       <!-- <li>	
             <br>      
