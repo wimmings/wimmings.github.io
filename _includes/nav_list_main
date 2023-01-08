@@ -11,8 +11,15 @@
         <span class="nav__sub-title">Spring</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "spring" %}
-                        <li><a href="/categories/spring" class="">스프링 ({{category[1].size}})</a></li>
+                    {% if category[0] == "springstudy" %}
+                        <li><a href="/categories/springstudy" class="">study ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "springnote" %}
+                        <li><a href="/categories/springnote" class="">note</a> ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -27,7 +34,7 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Network" %}
+                    {% if category[0] == "network" %}
                         <li><a href="/categories/network" class="">네트워크 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
