@@ -210,6 +210,11 @@ figure {
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
+    &.emoji {
+      width: 10px;
+      height: 10px;
+      vertical-align: text-bottom;
+    }
   }
 
   > a {
