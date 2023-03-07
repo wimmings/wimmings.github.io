@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Suyoung Oh"
   avatar           : "images/profile.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "안녕하세요, *wimmings* 오수영입니다"
   location         : "Somewhere"
   email            :
   links:
@@ -223,7 +223,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
