@@ -26,8 +26,8 @@
         <span class="nav__sub-title">대외 활동</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Devocean Young" %}
-                        <li><a href="/categories/devocean-young" class="">Devocean Young 2기 ({{category[1].size}})</a></li>
+                    {% if category[0] == "DEVOCEAN YOUNG" %}
+                        <li><a href="/categories/devocean-young" class="">DEVOCEAN YOUNG 2기 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

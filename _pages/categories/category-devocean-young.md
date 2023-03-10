@@ -7,5 +7,5 @@ sidebar_main: true
 ---
 
 
-{% assign posts = site.categories['Devocean Young'] %}
+{% assign posts = site.categories['DEVOCEAN YOUNG'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
