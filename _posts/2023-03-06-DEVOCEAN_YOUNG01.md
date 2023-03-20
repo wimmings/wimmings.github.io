@@ -82,10 +82,23 @@ DEVOCEAN 운영자님, SK Telecom Tech HR 팀장님과 DEVOCEAN MASTER님의 환
 ![IMG_3817](https://user-images.githubusercontent.com/98014840/223435757-2b5547f0-35ac-4cf1-896d-0a827e14746f.jpg){: width="40%" height="40%"}  
 DEVOCEAN 적힌 테이블 매트까지 챙겨주셨다!
 
+항상 DEVOCEAN 소식 메일을 보고 접속해서 글을 읽을 때마다 ( + 쌓여가는 마일리지 볼 때 뿌듯하기도ㅎㅎ) <br> 
+이곳에 DEVOCEAN YOUNG 만의 발자취를 남길 수 있어 영광이라는 생각을 한다.ㅎㅎ <br>
+학교 수업에서 배운 전공지식, 알고리즘 동아리 활동과 GDSC에서 얻은 협업 경험을 살려 이 분야에 대한 열정을 이번 DEVOCOEAN YOUNG 2기 활동에 마음껏 펼치고 싶다!
+
 SKT 데보션 MASTER 분들과 소통하며  
 현직에선 개발 관련 일들이 어떻게 진행되는지 가까이에서 배울 수 있는 좋은 경험이 될 것 같다!  
 열심히 활동해서 우수 활동자에 선정되고 싶다
 
 앞으로의 활동이 기대되고 기다려진다!
+<br>
 
-데보션 영 2기, 10조 🌊 Young Wave조 🌊 화이팅!💕
+데보션 영 2기, 10조 🌊 YOUNG WAVE 조 🌊 화이팅!💕
+<img width="840" alt="스크린샷 2023-03-21 오전 12 59 37" src="https://user-images.githubusercontent.com/98014840/226398207-8c2b4ace-e85d-4f65-ac1b-a59e850c6caf.png">
+내가 제안한 조 이름이랑 뜻이 선정돼서 뿌듯했다!
+
+
+👉🏻 [DEVOCEAN YOUNG 2기 발대식 스케치 영상](https://devocean.sk.com/vlog/view.do?id=416&vcode=A01){: target="_blank"}
+<br>
+
+👉🏻 [내가 쓴 첫 데보션 커뮤니티 글(아마 앱에서만..?)](https://devocean.sk.com/){: target="_blank"}
