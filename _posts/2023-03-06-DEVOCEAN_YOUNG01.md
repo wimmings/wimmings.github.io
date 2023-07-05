@@ -5,6 +5,7 @@ categories:
     - DEVOCEAN YOUNG
 toc: true
 toc_sticky: true
+tags: DEVOCEANYOUNG DEVOCEAN 데보션
 
 date: 2023-03-06
 ---
