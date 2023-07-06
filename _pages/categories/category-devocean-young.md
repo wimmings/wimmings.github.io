@@ -1,5 +1,5 @@
 ---
-title: "Devocean Young 2기"
+title: "DEVOCEAN YOUNG 2기"
 layout: archive
 permalink: categories/devocean-young
 author_profile: true
