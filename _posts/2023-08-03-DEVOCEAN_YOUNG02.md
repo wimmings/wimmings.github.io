@@ -54,6 +54,7 @@ SKT의 AI 분야에서도 다양한 행사들을 제공하고 있었고
 담당자 분께서 구내 식당에서 점심을 사주셨다. 얼굴 인식으로만 시킬 수 있어서 신기했다!
 
 ![1](https://github.com/wimmings/wimmings/assets/98014840/df04c257-9821-46d3-b7c7-94060ed37459) |![2](https://github.com/wimmings/wimmings/assets/98014840/f1603334-3d11-467f-9e28-7d7a73e4e2cd)  
+
 T타워 31층 뷰는 진짜 끝내줬다! 
 <br>
 
@@ -63,12 +64,15 @@ T타워 31층 뷰는 진짜 끝내줬다!
 2053년, 우리인류는 더 편리하고 윤택한 생활 환경을 찾아 에너지 설비, 도시농업, 헬스케어 등
 첨단기술이 접목된 미래도시 하이랜드를 건설한다
 원정단은 새롭게 구축된 하이랜드 견학을 위해 원정길에 오르는데...
+
 ![1](https://github.com/wimmings/wimmings/assets/98014840/6b42ce54-008d-42b0-97ec-9f821e5738ce) |![2](https://github.com/wimmings/wimmings/assets/98014840/b1d34c33-e4d5-423d-8bf7-1b9c7d3e4ba6)  
 
 <br>
 하이퍼루프 탑승장을 통해 우주 관제 센터 도착!
 인공지능과 음성인식, 자율주행 기술이 발달한 SKT의 첨단 과학을 미리 체험할 수 있었다.
+
 ![1](https://github.com/wimmings/wimmings/assets/98014840/2169587e-b71b-4ad7-a990-1c53f8b2098f) |![2](https://github.com/wimmings/wimmings/assets/98014840/fe864432-2e76-4e45-8011-8159b592819b)  
+
 중력장 발생장치를 가동시켜 미션도 수행했다!
 VR로 생생한 체험을 할 수 있었다.
 
