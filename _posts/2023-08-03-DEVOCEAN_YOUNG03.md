@@ -7,7 +7,7 @@ toc: true
 toc_sticky: true
 tags: DEVOCEANYOUNG DEVOCEAN 데보션
 
-date: 2023-08-13
+date: 2023-08-03
 ---
 6월 16일에 다녀왔던 AI Campus 본사 방문 투어와 
 데보션 영 2기 7월 미션인 티움(T.um)투어 후기입니다.
