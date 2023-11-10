@@ -1,5 +1,5 @@
 ---
-title:  "[DEVOCEAN YOUNG 2기] 영 전용 세미나 후기" 
+title:  "[DEVOCEAN YOUNG 2기] 영 전용 7월 세미나 후기" 
 
 categories: 
     - DEVOCEAN YOUNG
