@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Suyoung Oh"
-  avatar           : "images/profile.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/love2.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "*wimmings* 오수영입니다"
   location         : "Somewhere"
   email            :
